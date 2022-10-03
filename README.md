@@ -21,9 +21,7 @@ Time spent: 6 hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/ENkQ50RMRr.gif
-
-<img src = "http://g.recordit.co/ENkQ50RMRr.gif" width=250> <br>
+<img src = "https://user-images.githubusercontent.com/65494126/193649355-8e0cbe6d-03af-428a-aafe-ba6a9ba53c9d.gif" width=250> <br>
 
 
 
