@@ -21,4 +21,5 @@ Time spent: 6 hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://user-images.githubusercontent.com/65494126/193633843-4ac9af3d-5675-4c3e-9716-96c4de42a1d9.gif" width=250><br>
+
