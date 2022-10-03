@@ -23,7 +23,7 @@ Here's a walkthrough of implemented user stories:
 
 http://g.recordit.co/ENkQ50RMRr.gif
 
-<img src="http://g.recordit.co/ENkQ50RMRr.gif" width=250><br>
+<img src = "http://g.recordit.co/ENkQ50RMRr.gif" width=250> <br>
 
 
 
